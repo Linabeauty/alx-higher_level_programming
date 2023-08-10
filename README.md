@@ -1,7 +1,7 @@
 		HIGHER LEVEL PROGRAMMING LANGUAGE
 
 
-ThiS repository contained projects solved with an higher level programming language
+This repository contained projects solved with an higher level programming language and
 
 Every work here was solved by me.
 
